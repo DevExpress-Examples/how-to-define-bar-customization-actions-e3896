@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/BarCustomizationActions_SLSample/MainPage.xaml) (VB: [MainPage.xaml](./VB/BarCustomizationActions_SLSample/MainPage.xaml))
+<!-- default file list end -->
 # How to define bar customization actions
 
 
